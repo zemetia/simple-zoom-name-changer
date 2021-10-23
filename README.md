@@ -1,7 +1,7 @@
 # simple-zoom-name-changer
-Designed and Created by me.
-For Reason I am almost forgot to change my Zoom name at all of the time in zoom
-and too lazy to change the name from the web.
+Designed and Created by me.<br>
+For Reason I am almost forgot to change my Zoom name at all of the time in zoom<br>
+and too lazy to change the name from the web.<br>
 
 Yeah this have some cools features That I think for lazylazyman like me (hahaha)
 1. for the link you can copy the zoom link like "https://zoom.us/xxxxxxx?pwd=xxxxxxxx" (if It has Password)
@@ -12,11 +12,11 @@ And at the name you just can type like
 [name]_[kota]
 => Yoel Mountanus Sitorus_Pematangsiantar
 ```
-and then will shown like that.. Fuckin' cool right?:V
-I'm just too lazy dude hahaha.
+and then will shown like that.. Fuckin' cool right?:V<br>
+I'm just too lazy dude hahaha.<br><br>
 
-Oh yaa you can edit it from the script.js file
-edit the "data" dictionary
+Oh yaa you can edit it from the script.js file<br>
+edit the "data" dictionary<br>
 
 ```javascript
 let data = {name:"Yoel Mountanus Sitorus",
@@ -29,12 +29,12 @@ let data = {name:"Yoel Mountanus Sitorus",
             div:"Divisi Pendidikan",
             anjai:"halo"}; 
 ```
-u will see this stuff and u can add some more.
+u will see this stuff and u can add some more.<br>
 example u add
 ```
 bapak: "Anjai lu"
 ```
-
+<br>
 Then when u open the HTML file just type
 ```
 [bapak]123
@@ -42,6 +42,6 @@ Then when u open the HTML file just type
 => Anjai lu123
 ```
 
-U got the point rightt??
-If no, lemme know it feel free bruh.. Don't Forget and stay Programming
+U got the point rightt??<br>
+If no, lemme know it feel free bruh.. Don't Forget and stay Programming<br>
 CHILL! muach
