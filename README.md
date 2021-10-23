@@ -2,6 +2,7 @@
 Designed and Created by me.<br>
 For Reason I am almost forgot to change my Zoom name at all of the time in zoom<br>
 and too lazy to change the name from the web.<br>
+You can check this simple project on my Web: http://project.zymerweb.rf.gd/zoom
 
 Yeah this have some cools features That I think for lazylazyman like me (hahaha)
 1. for the link you can copy the zoom link like "https://zoom.us/xxxxxxx?pwd=xxxxxxxx" (if It has Password)
