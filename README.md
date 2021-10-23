@@ -34,8 +34,8 @@ example u add
 ```
 bapak: "Anjai lu"
 ```
-<br>
-Then when u open the HTML file just type
+
+Then when u open the HTML file just type<br>
 ```
 [bapak]123
 //Then it will shown
